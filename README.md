@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CsarSD
 - 👀 I’m interested in research
-- 🌱 I’m currently learning cojoint analysis
+- 🌱 I’m currently learning conjoint analysis
 - 💞️ I’m looking to collaborate on conjoint analysis
 - 📫 How to reach me cesar.serrano@uca.es
 
